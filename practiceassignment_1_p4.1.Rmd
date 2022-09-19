@@ -1,0 +1,15 @@
+---
+title: "practice assignment_1_4.1"
+output: html_document
+---
+## R Markdown file of part 3
+
+```{r}
+for (int in 0:10)
+{
+  print(int)
+}
+```
+
+
+for every integer in the range 0 to 10, each respective integer will be printed
